@@ -1,18 +1,26 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "Robocat270",
+    "esc": "DYS/Mini-30A",
+    "motor": "Cobra/CM-2206-2100kv",
+    "fc": "CC3D Atom Race Edtion",
+    "prop": [
+      "Gemfan/6045-Props-(CF-Nylon)",
+      "HQProp/6045-(CF-Nylon)",
+      "Surveilzone/DalProp-6x4",
+      "6045 Prototype"
+    ],
+    "arm": "",
+    "battery": [
+      "4S 1500mAh 50C"
+    ],
+    "osd": "",
+    "receiver": "Devention RX701",
+    "flightcam": "Aomway 600TFL",
+    "hqcam": "Sj4000",
+    "videotx": "",
+    "blackbox": "",
+    "voltagereg": ""
+  },
+  "version": 1
 }
